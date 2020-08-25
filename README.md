@@ -1,4 +1,4 @@
-Thats a repository to the Wesleyan University Coursera course of Data Management and Visualization
+Thats a repository to the Wesleyan University Coursera course of Data Management and Visualization. <br>
 The blog to the assesments is https://gapmindersuicide.tumblr.com/
 
 # GapMinder Democracy Rate and Suicide
